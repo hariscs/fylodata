@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/hariscs/fylodata)
-- Live Site URL: [Netlify](http://datafylo.netlify.app/)
+- Live Site URL: [Netlify](https://datafylo.netlify.app/)
 
 ### Built with
 
